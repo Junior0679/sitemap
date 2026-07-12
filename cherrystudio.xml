@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<url>
+				<loc>https://docs.cherry-ai.com</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/download</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-07-05T09:36:21.316Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/installation</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/installation/windows</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/installation/macos</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/launchpad</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/chat</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/assistants</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/agent</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/drawing</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/translation</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/app</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/knowledge-base</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/files</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/notes</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/quick-assistant</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/cherry-studio/preview/selection-assistant</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/quick-reference</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryai</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryai/free-deepseek</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryai/free-glm46v</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryai/free-glm45air</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryai/free-qwen</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/cherryin-1</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/openai</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/anthropic</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/azure-openai</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/google-gemini</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/vertex-ai</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/deepseek</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/grok</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/groq</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/openrouter</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/moonshot</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/minimax</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/newapi</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/oneapi</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/ollama</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/lm-studio</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/github-copilot</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/minimax-coding-plan</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/modelscope</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/ppio</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/a-li-yun-bai-lian</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/siliconcloud</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/doubao</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/huawei</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/wu-wen-xin-qiong</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/providers/zi-ding-yi-fu-wu-shang</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch/free-search</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch/blacklist</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch/volcengine</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch/tavily</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/websearch/searxng</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/providers</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/default-models</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/general</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/key-shortcut</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/yu-yin-gong-neng</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/display</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/settings/doc-process</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/webdav</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/s3-compatible</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/notion</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/obsidian</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/siyuan</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/data-settings/assistants-subscribe</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/personalization-settings</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/personalization-settings/custom-css</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/personalization-settings/font</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/personalization-settings/storage</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/pre-basic/personalization-settings/clear-css</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/knowledge-base/knowledge-base</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/knowledge-base/data</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/knowledge-base/emb-models-info</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/knowledge-base/document-preprocessing</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/concepts-101</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/install</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/config</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/auto-install</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/builtin</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/dify</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/mcp/faq</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/trace</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/code-tools</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/api-server</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/skills</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/agent-channels</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/scheduled-tasks</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/memory</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/openclaw</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/quick-phrase</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/agent-an-li</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/advanced-basic/agent-an-li/gold-price-case</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/contribution/code</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/contribution/docs</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/question-contact/questions</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-12-23T06:53:36.878Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/question-contact/ask</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-05-11T11:01:59.742Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/question-contact/knowledge</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-05-11T11:01:59.742Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/question-contact/suggestions</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/contact-us/questions</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-10T03:08:07.373Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/contact-us/questions/license</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/about/privacypolicy</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-02T13:52:48.375Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/other/models-info</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-08T01:33:39.193Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://docs.cherry-ai.com/other/lmarena</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-07-11T09:37:42.520Z</lastmod>
+</url>
+
+
+</urlset>
